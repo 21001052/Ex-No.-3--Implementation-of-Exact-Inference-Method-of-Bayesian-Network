@@ -22,9 +22,9 @@ Perform exact inference using the defined evidence and query variables.<br>
 Print the results.<br>
 
 ## Program :
-Developed By : **Akash A**
+Developed By : THAMARAISELVAN V
 </br>
-Register No. : **212221230003**
+Register No. : 212221230115
 ```py
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
